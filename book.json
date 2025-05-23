@@ -5,6 +5,7 @@
     "writer": "Soekarno",
     "pages": 624,
     "genre": "Sejarah, Politik",
+    "publisher": "Yayasan Pembina Sarana Pembangunan",
     "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1422702627i/1963420.jpg"
   },
   {
@@ -13,6 +14,7 @@
     "writer": "Tan Malaka",
     "pages": 500,
     "genre": "Filsafat, Politik",
+    "publisher": "Teplok Press",
     "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1417412608i/1607269.jpg"
   },
   {
@@ -21,6 +23,7 @@
     "writer": "Pramoedya Ananta Toer",
     "pages": 534,
     "genre": "Fiksi Sejarah",
+    "publisher": "Hasta Mitra",
     "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1565658920i/1398034.jpg"
   },
   {
@@ -29,6 +32,7 @@
     "writer": "Andrea Hirata",
     "pages": 529,
     "genre": "Fiksi, Pendidikan",
+    "publisher": "Bentang Pustaka",
     "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1489732961i/1362193.jpg"
   },
   {
@@ -37,6 +41,7 @@
     "writer": "Ahmad Fuadi",
     "pages": 423,
     "genre": "Fiksi, Motivasi",
+    "publisher": "Gramedia Pustaka Utama",
     "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1249749162i/6688121.jpg"
   },
   {
@@ -45,6 +50,7 @@
     "writer": "Pramoedya Ananta Toer",
     "pages": 482,
     "genre": "Fiksi Sejarah",
+    "publisher": "Hasta Mitra",
     "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1464929002i/1398044.jpg"
   },
   {
@@ -53,6 +59,7 @@
     "writer": "Habiburrahman El Shirazy",
     "pages": 418,
     "genre": "Fiksi Islami, Romansa",
+    "publisher": "Republika",
     "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1439347437i/969177.jpg"
   },
   {
@@ -61,6 +68,7 @@
     "writer": "Hamka",
     "pages": 236,
     "genre": "Fiksi, Romansa",
+    "publisher": "Balai Pustaka",
     "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1468645608i/1307394.jpg"
   },
   {
@@ -69,6 +77,7 @@
     "writer": "Nh. Dini",
     "pages": 312,
     "genre": "Fiksi, Romansa",
+    "publisher": "Gramedia Pustaka Utama",
     "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1489719571i/1337885.jpg"
   },
   {
@@ -77,6 +86,52 @@
     "writer": "Abdoel Moeis",
     "pages": 260,
     "genre": "Fiksi Klasik",
+    "publisher": "Balai Pustaka",
     "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1470493746i/1592712.jpg"
+  },
+  {
+    "no": 11,
+    "title": "Pulang",
+    "writer": "Leila S. Chudori",
+    "pages": 408,
+    "genre": "Fiksi Sejarah",
+    "publisher": "Kepustakaan Populer Gramedia",
+    "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1376856525i/18228399.jpg"
+  },
+  {
+    "no": 12,
+    "title": "Cantik Itu Luka",
+    "writer": "Eka Kurniawan",
+    "pages": 477,
+    "genre": "Fiksi, Realisme Magis",
+    "publisher": "Gramedia Pustaka Utama",
+    "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1429994998i/13645068.jpg"
+  },
+  {
+    "no": 13,
+    "title": "Gadis Pantai",
+    "writer": "Pramoedya Ananta Toer",
+    "pages": 272,
+    "genre": "Fiksi Sejarah",
+    "publisher": "Hasta Mitra",
+    "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1429995166i/1398048.jpg"
+  },
+  {
+    "no": 14,
+    "title": "Saman",
+    "writer": "Ayu Utami",
+    "pages": 212,
+    "genre": "Fiksi, Sastra Kontemporer",
+    "publisher": "Kepustakaan Populer Gramedia",
+    "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1408316130i/2040994.jpg"
+  },
+  {
+    "no": 15,
+    "title": "Arok Dedes",
+    "writer": "Pramoedya Ananta Toer",
+    "pages": 414,
+    "genre": "Fiksi Sejarah",
+    "publisher": "Hasta Mitra",
+    "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1429995408i/1398051.jpg"
   }
 ]
