@@ -1,0 +1,82 @@
+[
+  {
+    "no": 1,
+    "title": "Di Bawah Bendera Revolusi",
+    "writer": "Soekarno",
+    "pages": 624,
+    "genre": "Sejarah, Politik",
+    "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1422702627i/1963420.jpg"
+  },
+  {
+    "no": 2,
+    "title": "Madilog",
+    "writer": "Tan Malaka",
+    "pages": 500,
+    "genre": "Filsafat, Politik",
+    "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1417412608i/1607269.jpg"
+  },
+  {
+    "no": 3,
+    "title": "Bumi Manusia",
+    "writer": "Pramoedya Ananta Toer",
+    "pages": 534,
+    "genre": "Fiksi Sejarah",
+    "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1565658920i/1398034.jpg"
+  },
+  {
+    "no": 4,
+    "title": "Laskar Pelangi",
+    "writer": "Andrea Hirata",
+    "pages": 529,
+    "genre": "Fiksi, Pendidikan",
+    "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1489732961i/1362193.jpg"
+  },
+  {
+    "no": 5,
+    "title": "Negeri 5 Menara",
+    "writer": "Ahmad Fuadi",
+    "pages": 423,
+    "genre": "Fiksi, Motivasi",
+    "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1249749162i/6688121.jpg"
+  },
+  {
+    "no": 6,
+    "title": "Anak Semua Bangsa",
+    "writer": "Pramoedya Ananta Toer",
+    "pages": 482,
+    "genre": "Fiksi Sejarah",
+    "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1464929002i/1398044.jpg"
+  },
+  {
+    "no": 7,
+    "title": "Ayat-Ayat Cinta",
+    "writer": "Habiburrahman El Shirazy",
+    "pages": 418,
+    "genre": "Fiksi Islami, Romansa",
+    "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1439347437i/969177.jpg"
+  },
+  {
+    "no": 8,
+    "title": "Tenggelamnya Kapal Van der Wijck",
+    "writer": "Hamka",
+    "pages": 236,
+    "genre": "Fiksi, Romansa",
+    "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1468645608i/1307394.jpg"
+  },
+  {
+    "no": 9,
+    "title": "Pada Sebuah Kapal",
+    "writer": "Nh. Dini",
+    "pages": 312,
+    "genre": "Fiksi, Romansa",
+    "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1489719571i/1337885.jpg"
+  },
+  {
+    "no": 10,
+    "title": "Salah Asuhan",
+    "writer": "Abdoel Moeis",
+    "pages": 260,
+    "genre": "Fiksi Klasik",
+    "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1470493746i/1592712.jpg"
+  }
+]
